@@ -1,5 +1,5 @@
 local archives = {
-  2809202155 = "YourBizarreAdventure.lua"
+  ["2809202155"] = "YourBizarreAdventure.lua"
 }
 
 local placeId = game.PlaceId
